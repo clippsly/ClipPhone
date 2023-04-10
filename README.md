@@ -4,6 +4,12 @@ Clippsly cPhone is a Roblox-based UI for a phone that is based on Clippsly Dock 
 ## Usage
 To use the Clippsly cPhone, simply add the scripts to your Roblox game and customize the UI as desired. The mobile dock script provides click animations for the buttons on the dock, while the button scripts handle opening and closing the different apps. The cMessage mobile script allows players to send and receive messages.
 
+## Features
+- Simple and intuitive UI for creating and managing tasks
+- Color-coded task categories for easy organization
+- Click to close functionality for quick task completion
+With this addition, users can easily click to mark a task as completed without having to use complicated navigation. This feature saves users time and enhances the overall user experience of the UI.
+
 ## Installation
 To install the Clippsly cPhone, follow these steps:
 
