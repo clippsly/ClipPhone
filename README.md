@@ -8,6 +8,7 @@ To use the Clippsly cPhone, simply add the scripts to your Roblox game and custo
 - Simple and intuitive UI for creating and managing tasks
 - Color-coded task categories for easy organization
 - Click to close functionality for quick task completion
+
 With this addition, users can easily click to mark a task as completed without having to use complicated navigation. This feature saves users time and enhances the overall user experience of the UI.
 
 ## Installation
