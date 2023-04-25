@@ -1,5 +1,5 @@
 # Clippsly cPhone
-Clippsly ClipPhone is a Roblox-based UI for a phone that is based on Clippsly Dock v0.7 and uses cMessage Mobile which is based on cMessage v1.0.
+Clippsly ClipPhone is a Roblox-based UI for a phone that is based on Clippsly Dock v0.7 and uses ClipMessage Mobile which is based on ClipMessage v1.0.
 
 ## Usage
 To use the Clippsly ClipPhone, simply add the scripts to your Roblox game and customize the UI as desired. The mobile dock script provides click animations for the buttons on the dock, while the button scripts handle opening and closing the different apps. The cMessage mobile script allows players to send and receive messages.
