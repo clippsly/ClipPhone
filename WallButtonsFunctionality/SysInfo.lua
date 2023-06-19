@@ -1,5 +1,5 @@
 -- Get references to the DockShelf and its children
---EDITED BY PAULOCEZARNBR
+
 local dockShelf = script.Parent.Parent.MobileDock
 local wallShelf = script.Parent.Parent.Wallpaper.Apps
 local aFinderButton = wallShelf.NSys
