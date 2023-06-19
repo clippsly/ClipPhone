@@ -1,4 +1,13 @@
+--[[
+
+Clippsly "Mobile Dock" Click Animations
+By: Placeholder Studio.
+Twitter: @Clippsly
+
+]]
+
 -- Get reference to the Dock frame
+local tweenService = game:GetService("TweenService")
 local dock = script.Parent.Parent.MobileDock
 
 -- Define the jump scale for the buttons
@@ -14,7 +23,7 @@ for _, button in ipairs(dock:GetChildren()) do
 			-- Create the jump tween
 			local Click = script.Click
 			local jumpTweenInfo = TweenInfo.new(jumpDuration, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
-			local jumpTween = game:GetService("TweenService"):Create(button, jumpTweenInfo, {
+			local jumpTween = tweenService:Create(button, jumpTweenInfo, {
 				Size = UDim2.new(button.Size.X.Scale * jumpScale, button.Size.X.Offset,
 					button.Size.Y.Scale * jumpScale, button.Size.Y.Offset),
 				Position = UDim2.new(button.Position.X.Scale - ((jumpScale - 1) / 2),
