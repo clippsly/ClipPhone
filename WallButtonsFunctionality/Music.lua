@@ -1,5 +1,4 @@
 -- Get references to the DockShelf and its children
---EDITED BY PAULOCEZARNBR
 local dockShelf = script.Parent.Parent.MobileDock
 local backShelf = script.Parent.Parent.Wallpaper.Apps
 local aFinderButton = backShelf.KMusic
