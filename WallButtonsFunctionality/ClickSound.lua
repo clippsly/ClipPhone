@@ -3,7 +3,7 @@
 Clippsly "Mobile Dock" Click Sound
 By: Placeholder Studio.
 Twitter: @Clippsly
-EDITED BY PAULOCEZARNBR
+
 ]]
 
 -- Get reference to the Dock frame
