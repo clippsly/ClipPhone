@@ -1,5 +1,5 @@
 -- Define the GUI elements
---EDITED BY PAULOCEZARNBR 
+
 local window = script.Parent.Parent.AppManager.cMessage
 local chatLog = window.ChatLog
 local messageBox = window.MesgBar
