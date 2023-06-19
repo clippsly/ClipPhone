@@ -1,5 +1,4 @@
 -- Get references to the DockShelf and its children
--- Edited by paulocezarnbr
 
 local dockShelf = script.Parent.Parent.MobileDock
 local wallShelf = script.Parent.Parent.Wallpaper.Apps
